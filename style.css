@@ -1,0 +1,18 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.sidebar {
+  height: 100vh;
+  background: #f8f9fa;
+  padding: 15px;
+  border-right: 1px solid #ddd;
+  overflow-y: auto;
+}
+
+#map {
+  height: 100vh !important;
+  width: 100%;
+}
